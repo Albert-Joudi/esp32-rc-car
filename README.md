@@ -7,8 +7,8 @@ The **esp32-rc-car** is a custom-built RC car controlled via Bluetooth Low Energ
 
 ## Project Media
 <p align="center">
-  <img src="photos/esp32_rc_car_front_view.png" height="400" />
-  <img src="photos/esp32_rc_car_top_view.png" height="400" />
+  <img src="media/esp32_rc_car_front_view.png" height="400" />
+  <img src="media/esp32_rc_car_top_view.png" height="400" />
 </p>
 ▶ Watch the ESP32 RC Car features showcase: https://youtube.com/shorts/to-kIwxq354?si=jSNwVrnpMwx3RoQd 
 
